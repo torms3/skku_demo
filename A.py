@@ -1,2 +1,3 @@
 class A:
-	pass
+	def __init__(self):
+		self.a = 1
